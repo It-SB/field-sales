@@ -13,7 +13,7 @@ export default function manifest(): MetadataRoute.Manifest {
     orientation: "portrait",
     icons: [
       {
-        src: "/icons/frozen-brands.png",
+        src: "/icons/frozen-brands",
         sizes: "192x192",
         type: "image/png",
       },
