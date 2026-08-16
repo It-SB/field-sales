@@ -1,0 +1,20 @@
+[
+  {
+    "id": "087785b2-a764-45a5-aebc-4f6e42273f37",
+    "storeId": "store-1",
+    "productId": "cf-chocolate-18",
+    "quantity": 2,
+    "expiryDate": "2026-08-18",
+    "capturedBy": "rep-1",
+    "capturedAt": "2026-08-16T20:15:03.519Z"
+  },
+  {
+    "id": "40d2e3e8-d573-4f56-b895-1c5b60aab0be",
+    "storeId": "store-2",
+    "productId": "cf-chocolate-18",
+    "quantity": 8,
+    "expiryDate": "2026-08-20",
+    "capturedBy": "rep-1",
+    "capturedAt": "2026-08-16T19:50:49.158Z"
+  }
+]

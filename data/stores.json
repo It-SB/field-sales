@@ -1,0 +1,26 @@
+[
+  {
+    "id": "store-1",
+    "name": "Shoprite Sandton",
+    "address": "Sandton",
+    "assignedRepId": "rep-1"
+  },
+  {
+    "id": "store-2",
+    "name": "Checkers Rosebank",
+    "address": "Rosebank",
+    "assignedRepId": "rep-1"
+  },
+  {
+    "id": "store-3",
+    "name": "Spar Bryanston",
+    "address": "Bryanston",
+    "assignedRepId": "rep-2"
+  },
+  {
+    "id": "store-4",
+    "name": "Pick n Pay Fourways",
+    "address": "Fourways",
+    "assignedRepId": "rep-2"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2fec5024-2d26-4ff7-9123-98ed47779bdb",
+    "storeId": "store-1",
+    "productId": "fh-chocolate-18",
+    "quantity": 2,
+    "reason": "expired",
+    "status": "submitted",
+    "notes": "gvbhjkl",
+    "reportedBy": "rep-1",
+    "reportedAt": "2026-08-16T20:21:14.322Z"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cf-strawberry-18",
+    "productLine": "Country Fresh",
+    "name": "Country Fresh Strawberry 1.8L",
+    "flavour": "Strawberry",
+    "size": "1.8L",
+    "sku": "CF-STR-18",
+    "active": true
+  },
+  {
+    "id": "cf-chocolate-18",
+    "productLine": "Country Fresh",
+    "name": "Country Fresh Chocolate 1.8L",
+    "flavour": "Chocolate",
+    "size": "1.8L",
+    "sku": "CF-CHO-18",
+    "active": true
+  },
+  {
+    "id": "cf-vanilla-18",
+    "productLine": "Country Fresh",
+    "name": "Country Fresh Vanilla 1.8L",
+    "flavour": "Vanilla",
+    "size": "1.8L",
+    "sku": "CF-VAN-18",
+    "active": true
+  },
+  {
+    "id": "cf-strawberry-5",
+    "productLine": "Country Fresh",
+    "name": "Country Fresh Strawberry 5L",
+    "flavour": "Strawberry",
+    "size": "5L",
+    "sku": "CF-STR-5",
+    "active": true
+  },
+  {
+    "id": "cf-chocolate-5",
+    "productLine": "Country Fresh",
+    "name": "Country Fresh Chocolate 5L",
+    "flavour": "Chocolate",
+    "size": "5L",
+    "sku": "CF-CHO-5",
+    "active": true
+  },
+  {
+    "id": "cf-vanilla-5",
+    "productLine": "Country Fresh",
+    "name": "Country Fresh Vanilla 5L",
+    "flavour": "Vanilla",
+    "size": "5L",
+    "sku": "CF-VAN-5",
+    "active": true
+  },
+  {
+    "id": "fh-strawberry-18",
+    "productLine": "Farmhouse",
+    "name": "Farmhouse Strawberry 1.8L",
+    "flavour": "Strawberry",
+    "size": "1.8L",
+    "sku": "FH-STR-18",
+    "active": true
+  },
+  {
+    "id": "fh-chocolate-18",
+    "productLine": "Farmhouse",
+    "name": "Farmhouse Chocolate 1.8L",
+    "flavour": "Chocolate",
+    "size": "1.8L",
+    "sku": "FH-CHO-18",
+    "active": true
+  },
+  {
+    "id": "fh-vanilla-18",
+    "productLine": "Farmhouse",
+    "name": "Farmhouse Vanilla 1.8L",
+    "flavour": "Vanilla",
+    "size": "1.8L",
+    "sku": "FH-VAN-18",
+    "active": true
+  },
+  {
+    "id": "fh-strawberry-5",
+    "productLine": "Farmhouse",
+    "name": "Farmhouse Strawberry 5L",
+    "flavour": "Strawberry",
+    "size": "5L",
+    "sku": "FH-STR-5",
+    "active": true
+  },
+  {
+    "id": "fh-chocolate-5",
+    "productLine": "Farmhouse",
+    "name": "Farmhouse Chocolate 5L",
+    "flavour": "Chocolate",
+    "size": "5L",
+    "sku": "FH-CHO-5",
+    "active": true
+  },
+  {
+    "id": "fh-vanilla-5",
+    "productLine": "Farmhouse",
+    "name": "Farmhouse Vanilla 5L",
+    "flavour": "Vanilla",
+    "size": "5L",
+    "sku": "FH-VAN-5",
+    "active": true
+  }
+]

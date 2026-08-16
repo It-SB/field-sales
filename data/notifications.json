@@ -1,0 +1,53 @@
+[
+  {
+    "id": "707e712f-e215-4adb-b2b7-e5f1aec14b82",
+    "type": "return_update",
+    "title": "New Return Submitted",
+    "message": "John Sales submitted a expired return for 2 × Farmhouse Chocolate 1.8L at Shoprite Sandton.",
+    "target": "admins",
+    "readBy": [],
+    "createdAt": "2026-08-16T20:21:14.621Z"
+  },
+  {
+    "id": "765452e0-c23d-4508-b3ea-1210c9527cf9",
+    "type": "expiry_alert",
+    "title": "Stock Expiring Soon",
+    "message": "Country Fresh Chocolate 1.8L at Shoprite Sandton expires in 2 days. Please check your assigned stores for similar stock.",
+    "target": "all_sales_reps",
+    "readBy": [
+      "rep-1"
+    ],
+    "createdAt": "2026-08-16T20:15:03.522Z"
+  },
+  {
+    "id": "beeaf015-60ea-4d17-9c7b-54dcfd05d58b",
+    "type": "expiry_alert",
+    "title": "Stock Expiring Soon",
+    "message": "Country Fresh Chocolate 1.8L at Checkers Rosebank expires in 4 days. Please check your assigned stores for similar stock.",
+    "target": "all_sales_reps",
+    "readBy": [
+      "rep-1"
+    ],
+    "createdAt": "2026-08-16T19:50:49.179Z"
+  },
+  {
+    "id": "notif-1",
+    "type": "general",
+    "title": "Welcome to Field Sales",
+    "message": "Please check your assigned stores and report any expiring stock or fridge issues.",
+    "target": "all_sales_reps",
+    "readBy": [
+      "rep-1"
+    ],
+    "createdAt": "2026-08-16T19:00:00Z"
+  },
+  {
+    "id": "notif-2",
+    "type": "general",
+    "title": "System Ready",
+    "message": "The Field Sales proof of concept is ready for testing.",
+    "target": "admins",
+    "readBy": [],
+    "createdAt": "2026-08-16T19:05:00Z"
+  }
+]
