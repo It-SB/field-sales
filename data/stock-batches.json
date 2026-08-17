@@ -1,5 +1,32 @@
 [
   {
+    "id": "7877b221-b886-44a9-88fc-a5c178d7b7dc",
+    "storeId": "store-1",
+    "productId": "cf-chocolate-18",
+    "quantity": 23,
+    "expiryDate": "2026-08-25",
+    "capturedBy": "rep-1",
+    "capturedAt": "2026-08-17T12:15:08.972+00:00"
+  },
+  {
+    "id": "4c72abd0-2ae6-402d-97b3-1ab16197a3a7",
+    "storeId": "store-1",
+    "productId": "fh-strawberry-18",
+    "quantity": 23,
+    "expiryDate": "2026-08-22",
+    "capturedBy": "admin-1",
+    "capturedAt": "2026-08-17T12:12:53.502+00:00"
+  },
+  {
+    "id": "873b3be5-5ca5-44a6-bd7d-9a07ba931b56",
+    "storeId": "store-1",
+    "productId": "cf-chocolate-18",
+    "quantity": 2,
+    "expiryDate": "2026-08-11",
+    "capturedBy": "admin-1",
+    "capturedAt": "2026-08-17T11:48:36.998Z"
+  },
+  {
     "id": "087785b2-a764-45a5-aebc-4f6e42273f37",
     "storeId": "store-1",
     "productId": "cf-chocolate-18",

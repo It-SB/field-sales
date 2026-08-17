@@ -1,5 +1,16 @@
 [
   {
+    "id": "8542c785-9c2b-453b-964c-afee93c090ad",
+    "storeId": "store-1",
+    "productId": "cf-chocolate-18",
+    "quantity": 23,
+    "reason": "melted",
+    "status": "submitted",
+    "notes": "test",
+    "reportedBy": "rep-1",
+    "reportedAt": "2026-08-17T12:14:25.340Z"
+  },
+  {
     "id": "2fec5024-2d26-4ff7-9123-98ed47779bdb",
     "storeId": "store-1",
     "productId": "fh-chocolate-18",

@@ -1,5 +1,32 @@
 [
   {
+    "id": "d2206640-de42-4851-b6c8-c0c6fe35a143",
+    "type": "expiry_alert",
+    "title": "Stock Expiring Soon",
+    "message": "Country Fresh Chocolate 1.8L at Shoprite Sandton expires in 8 days. Please check your assigned stores for similar stock.",
+    "target": "all_sales_reps",
+    "readBy": [],
+    "createdAt": "2026-08-17T12:15:10.408Z"
+  },
+  {
+    "id": "9bb08328-c7fd-4972-ae74-230c8fdd5051",
+    "type": "return_update",
+    "title": "New Return Submitted",
+    "message": "John Sales submitted a melted return for 23 × Country Fresh Chocolate 1.8L at Shoprite Sandton.",
+    "target": "admins",
+    "readBy": [],
+    "createdAt": "2026-08-17T12:14:25.378Z"
+  },
+  {
+    "id": "93e80d3f-a475-432e-8153-488ec6b73558",
+    "type": "expiry_alert",
+    "title": "Stock Expiring Soon",
+    "message": "Farmhouse Strawberry 1.8L at Shoprite Sandton expires in 5 days. Please check your assigned stores for similar stock.",
+    "target": "all_sales_reps",
+    "readBy": [],
+    "createdAt": "2026-08-17T12:12:54.227Z"
+  },
+  {
     "id": "707e712f-e215-4adb-b2b7-e5f1aec14b82",
     "type": "return_update",
     "title": "New Return Submitted",

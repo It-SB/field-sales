@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { addStockBatch } from "@/lib/db-supabase";
+
 import { getCurrentUser } from "@/lib/auth";
 import { readJsonFile, writeJsonFile } from "@/lib/db";
 import { createNotification } from "@/lib/notifications";
@@ -142,14 +142,12 @@ export async function POST(request: Request) {
       capturedAt: new Date().toISOString(),
     };
 
-    const savedBatch = await addStockBatch(newBatch);
-
     const stockBatches =
       await readJsonFile<StockBatch[]>(
         "stock-batches.json"
       );
 
-    stockBatches.unshift(savedBatch);
+    stockBatches.unshift(newBatch);
 
     await writeJsonFile(
       "stock-batches.json",
